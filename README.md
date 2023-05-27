@@ -82,7 +82,7 @@ My previous experience was initially associated with working as a PR manager and
 • testerzy.pl
 
 ## Groups on Facebook
-• < a href= "https://www.facebook.com/groups/509489587391848/?hoisted_section_header_type=recently_seen&multi_permalinks=780138180326986">Testowanie oprogramowania - Materiały/Porady</a>
+• <a href= "https://www.facebook.com/groups/509489587391848/?hoisted_section_header_type=recently_seen&multi_permalinks=780138180326986">Testowanie oprogramowania - Materiały/Porady</a>
 
 
 ## My projects 
