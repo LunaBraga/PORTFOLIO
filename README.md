@@ -13,6 +13,8 @@ My previous experience was initially associated with working as a PR manager and
 
 • „Manual Tests” from Dare IT Sp. z o.o.
 
+• SQL in 120 minutes from https://www.kursysql.pl/
+
 • SQLBolt Learn SQL with simple, interactive exercises https://sqlbolt.com/
 
 • 7-day HTML/CSS Marathon from GoIT
