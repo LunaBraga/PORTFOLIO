@@ -113,6 +113,31 @@ I tested the pages while working in Cape Morris advertising agency.
 
 Pre-production testing of websites on mobile and desktop devices. Acceptance testing.
 
+#### Bugs I found:
+
+• typos
+
+• inappropriate links added
+
+• added texts in the wrong language
+
+• added wrong data in tables with product benefits
+
+• added bad product packshots
+
+• incorrect font sizes
+
+• pop-ups not opening properly
+
+• elements in the header are unevenly arranged and some of the elements were too small or too big
+
+• on the mobile version overlapping elements in the header
+
+• no added notifications in forms
+
+• forms not working
+
+
 Lists of some websites that I tested manualy:
 
 • https://tefal.lt/lt_LT/
