@@ -113,6 +113,8 @@ I tested the pages while working in Cape Morris advertising agency.
 
 Pre-production testing of websites on mobile and desktop devices. Acceptance testing.
 
+
+
 #### Bugs I found:
 
 • typos
@@ -138,7 +140,9 @@ Pre-production testing of websites on mobile and desktop devices. Acceptance tes
 • forms not working
 
 
-Lists of some websites that I tested manualy:
+
+
+#### Lists of some websites that I tested manualy:
 
 • https://tefal.lt/lt_LT/
 
