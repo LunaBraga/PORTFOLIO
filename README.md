@@ -108,8 +108,7 @@ Lists of bugs that I was made during course „Manual Tests”
 
 
 ### Tested websites
-While working as an account manager, all websites that I worked on with the team were tested by me before they were sent for customer approval.
-I tested the pages while working in Cape Morris advertising agency.
+While working as an account manager, all websites that I worked on with the developers & creative team were tested by me before they were sent for customer approval. I tested the pages while working in Cape Morris advertising agency.
 
 Pre-production testing of websites on mobile and desktop devices. Acceptance testing.
 
