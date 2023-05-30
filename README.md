@@ -120,7 +120,7 @@ Pre-production testing of websites on mobile and desktop devices. Acceptance tes
 
 • inappropriate links added
 
-• added texts in the wrong language
+• added texts in the wrong language 
 
 • added wrong data in tables with product benefits
 
