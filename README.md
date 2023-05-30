@@ -115,7 +115,7 @@ Pre-production testing of websites on mobile and desktop devices. Acceptance tes
 
 Lists of some websites that I tested manualy:
 
-<a href="https://tefal.lt/lt_LT/" target="_blank">Tefal LT</a>
+• https://tefal.lt/lt_LT/
 
 • https://tefal.lt/lt_LT/
 
