@@ -9,13 +9,13 @@ My previous experience was initially associated with working as a PR manager and
 
 ## Courses 
 
-• „Automated Tests + Python” from Dare IT Sp. z o.o. https://www.dareit.io/challenges
+• „Automated Tests + Python” from Dare IT Sp. z o.o. <a href= "https://www.dareit.io/challenges">Dare IT</a>
 
-• „Manual Tests” from Dare IT Sp. z o.o. https://www.dareit.io/challenges
+• „Manual Tests” from Dare IT Sp. z o.o. <a href= "https://www.dareit.io/challenges">Dare IT</a>
 
-• SQL in 120 minutes from https://www.kursysql.pl/
+• SQL in 120 minutes from <a href= "https://www.kursysql.pl/">Kursy SQL</a>
 
-• SQLBolt Learn SQL with simple, interactive exercises https://sqlbolt.com/
+• SQLBolt Learn SQL with simple, interactive exercises <a href= "https://sqlbolt.com/ ">SQLBolt</a>
 
 • 7-day HTML/CSS Marathon from GoIT
 
