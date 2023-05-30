@@ -104,7 +104,7 @@ Lists of bugs that I was made during course „Manual Tests”
 
 ### SQL tasks 
 
-<a href ="">Link to all SQL tasks"</a>
+<a href ="https://docs.google.com/document/d/1TnwUclmEahtQttLSnDhYsdX7TNekhkgfYkQ4NsRD6K8/edit?usp=share_link">Link to all SQL tasks"</a>
 
 
 While working as an account manager, all websites that I worked on with the team were tested by me before they were sent for customer approval.
