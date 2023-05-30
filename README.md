@@ -9,9 +9,9 @@ My previous experience was initially associated with working as a PR manager and
 
 ## Courses 
 
-• „Automated Tests + Python” from Dare IT Sp. z o.o.
+• „Automated Tests + Python” from Dare IT Sp. z o.o. https://www.dareit.io/challenges
 
-• „Manual Tests” from Dare IT Sp. z o.o.
+• „Manual Tests” from Dare IT Sp. z o.o. https://www.dareit.io/challenges
 
 • SQL in 120 minutes from https://www.kursysql.pl/
 
