@@ -17,6 +17,8 @@ My previous experience was initially associated with working as a PR manager and
 
 • SQLBolt Learn SQL with simple, interactive exercises <a href= "https://sqlbolt.com/ ">SQLBolt</a>
 
+• SQL course from <a href="https://www.w3schools.com/sql/">3schools</a>
+
 • 7-day HTML/CSS Marathon from <a href="https://goit.global/pl/">GoIT</a>
 
 • „Basic Jira” – project management from <a href="https://www.udemy.com/">Udemy</a>
