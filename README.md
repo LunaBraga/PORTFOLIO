@@ -52,7 +52,7 @@ My previous experience was initially associated with working as a PR manager and
 
 • PyCharm
 
-• HTML/CSS
+• XAMPP
 
 • Google Analytics
 
