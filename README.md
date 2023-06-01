@@ -52,10 +52,13 @@ My previous experience was initially associated with working as a PR manager and
 
 • PyCharm
 
-• XAMPP
+• XAMPP 
+
+• Slack - to communicate with team
 
 • Google Analytics
 
+• Microsoft Teams - to communicate with team  & meetings
 
 
 
