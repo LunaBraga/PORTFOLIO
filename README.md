@@ -9,7 +9,7 @@ My previous experience was initially associated with working as a PR manager and
 
 ## Courses
 
-• „Automated Tests + Python” from Dare IT Sp. z o.o. <a href= "https://www.dareit.io/challenges">Dare IT</a>
+• „Automated Tests + Python” from Dare IT Sp. z o.o. <a href= "https://www.dareit.io/challenges" target="_blank">Dare IT</a>
 
 • „Manual Tests” from Dare IT Sp. z o.o. <a href= "https://www.dareit.io/challenges">Dare IT</a>
 
