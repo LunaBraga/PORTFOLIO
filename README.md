@@ -52,6 +52,8 @@ My previous experience was initially associated with working as a PR manager and
 
 • PyCharm
 
+• mySQL
+
 • XAMPP 
 
 • Screenpresso 
