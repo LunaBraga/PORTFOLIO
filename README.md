@@ -11,7 +11,7 @@ My previous experience was initially associated with working as a PR manager and
 
 • „Automated Tests + Python” from <a href="https://www.dareit.io/challenges" onclick="this.target='_blank'">Dare IT</a>     
 
-• „Manual Tests” from <a href="https://www.dareit.io/challenges" {:target="_blank" rel="noopener"}>Dare IT</a>
+• „Manual Tests” from <a href="https://www.dareit.io/challenges" {:target="_blank" rel="noopener"} >Dare IT</a>
 
 • SQL in 120 minutes from <a href= "https://www.kursysql.pl/">Kursy SQL</a>
 
