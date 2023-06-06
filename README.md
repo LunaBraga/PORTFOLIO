@@ -95,6 +95,7 @@ My previous experience was initially associated with working as a PR manager and
 
 ## You Tube I watch
 • <a href= "https://www.youtube.com/@JZP">Jak zacząć programować?</a>
+• <a href="https://www.youtube.com/@testerzy">testerzy.pl</a>
 
 
 ## My projects 
