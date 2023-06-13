@@ -125,7 +125,7 @@ Lists of bugs that I was made during course „Manual Tests”
 
 
 ### Tested websites
-While working as an account manager, all websites that I worked on with the developers & creative team were tested by me before they were sent for customer approval. I tested the pages while working in Cape Morris advertising agency.
+While working as an account manager, all websites that I worked on with the developers & creative team were tested by me before they were sent for customer approval. I tested the pages while working in Cape Morris advertising agency, IQ Marketing (Poland) Sp. z o.o. & McCann Worldgroup. 
 
 Pre-production testing of websites on mobile and desktop devices. Acceptance testing.
 
@@ -156,17 +156,52 @@ Pre-production testing of websites on mobile and desktop devices. Acceptance tes
 • forms not working
 
 
+𝑻𝑬𝑭𝑨𝑳 𝑬-𝑪𝑶𝑴𝑴𝑬𝑹𝑪𝑬 𝑾𝑬𝑩𝑺𝑰𝑻𝑬
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁
+E-commerce site created for the Tefal brand for the Baltic markets: Lithuania, Latvia, Estonia. The website made it possible to purchase products and learn about their operation, e.g. through rich product cards.
 
-#### Lists of some websites that I tested manualy:
+𝗠𝘆 𝗿𝗼𝗹𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁
+Manual testing of coded test pages in 3 languages ​​(Lithuanian, Latvian, Estonian): home page, subpages, forms, rich cards, product search, basket, shopping process on the website, added products. Checking the compliance of the coded landing page with the project created by the creative.
 
-• https://tefal.lt/lt_LT/
+𝗧𝗼𝗼𝗹𝘀 𝘂𝘀𝗲𝗱
+Excel, Word, SharePoint, Figma
 
 • https://tefal.lt/lt_LT/
 
 • https://tefal.lv/lv_LV/
 
 • https://tefal.ee/et_EE/
+
+
+𝑾𝑴𝑭 𝑬-𝑪𝑶𝑴𝑴𝑬𝑹𝑪𝑬 𝑾𝑬𝑩𝑺𝑰𝑻𝑬
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁
+E-commerce website created for the WMF brand for the Baltic markets: Lithuania, Latvia, Estonia. The website made it possible to purchase products.
+
+𝗠𝘆 𝗿𝗼𝗹𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁
+Manual testing of coded test pages in 3 languages: (Lithuanian, Latvian, Estonian): home page, subpages, forms, rich cards, product search, basket, shopping process on the website, added products. Checking the compliance of the coded landing page with the project created by the creative.
+
+𝗧𝗼𝗼𝗹𝘀 𝘂𝘀𝗲𝗱
+Excel, Word, SharePoint, Figma
+
+• https://wmf.lt/lt_LT/
+
+• https://wmf.lv/lv_LV/
+
+• https://wmf.com.ee/et_EE/
+
+
+𝑻𝑬𝑭𝑨𝑳 𝑩𝑨𝑳𝑻𝑰𝑪 𝑾𝑬𝑩𝑺𝑰𝑻𝑬𝑺
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+Pages dedicated to specific Tefal products for the Baltic market (Lithuania, Latvia, Estonia) and to promotional campaigns of these devices. The pages contain product descriptions, their benefits and links to reseller stores in the Baltic markets.
+
+𝗠𝘆 𝗿𝗼𝗹𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁
+Manual testing of coded test pages in 3 languages: (Lithuanian, Latvian, Estonian): home page, links to reseller products, product table, lead collection form. Checking the compatibility of coded landing pages with projects created by the creative.
+
+𝗧𝗼𝗼𝗹𝘀 𝘂𝘀𝗲𝗱
+Excel, Word, SharePoint, Figma
 
 • https://lp.tefal.lt/blenders
 
@@ -192,7 +227,18 @@ Pre-production testing of websites on mobile and desktop devices. Acceptance tes
 
 • https://lp.tefal.ee/licencetoclean
 
-• https://perlowapijalniapiwa.pl/
+
+𝑻𝑬𝑭𝑨𝑳 𝑾𝑬𝑩𝑺𝑰𝑻𝑬𝑺
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+Pages dedicated to specific Tefal products and to promotional campaigns of these devices. The pages contain product descriptions, their benefits and links to reseller stores in the Polish markets.
+
+𝗠𝘆 𝗿𝗼𝗹𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁
+Manual testing of coded test pages: home page, links to reseller products, product table, lead collection form. Checking the compatibility of coded landing pages with projects created by the creative.
+
+𝗧𝗼𝗼𝗹𝘀 𝘂𝘀𝗲𝗱
+Excel, Word, SharePoint, Figma
+
 
 • https://skutecznieposprzatane.pl/
 
@@ -201,11 +247,78 @@ Pre-production testing of websites on mobile and desktop devices. Acceptance tes
 • https://xforceflex.pl/
 
 
+𝑷𝑬𝑹Ł𝑨 𝑾𝑬𝑩𝑺𝑰𝑻𝑬
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁
+A website for the Perła company with the possibility of booking a place in the Perłowa Pijalnia Piwa.
+
+𝗠𝘆 𝗿𝗼𝗹𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁
+Manual testing of the coded test page in two languages (Polish, English): home page, subpages, videos. Checking the compliance of the coded landing page with the project created by the creative.
+
+𝗧𝗼𝗼𝗹𝘀 𝘂𝘀𝗲𝗱
+Excel, Word
+
+• https://perlowapijalniapiwa.pl/
 
 
+𝑴𝑰𝑳𝑲𝑨 𝑳𝑶𝑻𝑻𝑬𝑹𝒀 𝑾𝑬𝑩𝑺𝑰𝑻𝑬𝑺
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+Milka lottery websites. The pages contained information about the lottery: mechanics, prizes, games, promotional products, winners, application form.
+
+𝗠𝘆 𝗿𝗼𝗹𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁
+Manual testing of coded test pages: home page, application form and panel with reports. Checking the compliance of the landing page design with the created KV of the lottery.
+
+𝗧𝗼𝗼𝗹𝘀 𝘂𝘀𝗲𝗱
+Excel, Word
+
+Website changes for every new lottery & the domain is still the same. 
+
+• https://www.loteriamilka.pl
 
 
+𝑷𝑹𝑰𝑵𝑪𝑬 𝑷𝑶𝑳𝑶 𝑳𝑶𝑻𝑻𝑬𝑹𝒀 𝑾𝑬𝑩𝑺𝑰𝑻𝑬𝑺
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+Prince Polo Lottery Sites. The pages contained information about the lottery: mechanics, prizes, promotional products, winners, application form.
+
+𝗠𝘆 𝗿𝗼𝗹𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁
+Manual testing of coded test pages: home page, application form and panel with reports. Checking the compliance of the landing page design with the created KV of the lottery.
+
+𝗧𝗼𝗼𝗹𝘀 𝘂𝘀𝗲𝗱
+Excel, Word
+
+Website changes for every new lottery & the domain is still the same. 
+
+• https://princepolo.pl/
 
 
+𝒃𝒆𝒍𝑽𝒊𝒕𝒂 𝑳𝑶𝑻𝑻𝑬𝑹𝒀 𝑾𝑬𝑩𝑺𝑰𝑻𝑬𝑺
 
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+belVita lottery websites. The pages contained information about the lottery: mechanics, prizes, promotional products, winners, application form. Checking the compliance of the landing page design with the created KV of the lottery.
 
+𝗠𝘆 𝗿𝗼𝗹𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁
+Manual testing of coded test pages: home page, application form and panel with reports. Checking the compliance of the landing page design with the created KV of the lottery.
+
+𝗧𝗼𝗼𝗹𝘀 𝘂𝘀𝗲𝗱
+Excel, Word
+
+The website is currently archived.
+
+• www.belvita.pl 
+
+𝑴𝑨𝑺𝑻𝑬𝑹𝑪𝑨𝑹𝑫 𝑳𝑶𝑻𝑻𝑬𝑹𝒀 𝑾𝑬𝑩𝑺𝑰𝑻𝑬
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁
+Mastercard lottery website. The website contained information about the lottery: mechanics, prizes, winners, application form.
+
+𝗠𝘆 𝗿𝗼𝗹𝗲 𝗶𝗻 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁
+Manual testing of the coded test page: home page, application form. Checking the compliance of the project with the created KV of the lottery.
+
+𝗧𝗼𝗼𝗹𝘀 𝘂𝘀𝗲𝗱
+Excel, Word
+
+The subpage with lottery is currently archived.
+
+• www.bezcenneniespodzianki.pl/ligamistrzow
