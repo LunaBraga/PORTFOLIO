@@ -127,7 +127,10 @@ Lists of bugs that I was made during course „Manual Tests”
 
 ### SQL tasks 
 
-<a href ="https://docs.google.com/document/d/1TnwUclmEahtQttLSnDhYsdX7TNekhkgfYkQ4NsRD6K8/edit?usp=share_link">Link to all SQL tasks"</a>
+<a href ="https://docs.google.com/document/d/1TnwUclmEahtQttLSnDhYsdX7TNekhkgfYkQ4NsRD6K8/edit?usp=share_link">Link to all SQL tasks</a>
+
+### My CV HTML/CSS
+<a href ="https://648b5fd4aa13820398824834--symphonious-druid-19a4c8.netlify.app/">My CV</a>
 
 
 ### Tested websites
