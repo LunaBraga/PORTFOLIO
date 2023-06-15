@@ -158,7 +158,7 @@ Pre-production testing of websites on mobile and desktop devices. Acceptance tes
 • forms not working
 
 
-𝑻𝑬𝑭𝑨𝑳 𝑬-𝑪𝑶𝑴𝑴𝑬𝑹𝑪𝑬 𝑾𝑬𝑩𝑺𝑰𝑻𝑬
+### TEFAL E-COMMERCE BALTIC WEBSITES
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 E-commerce site created for the Tefal brand for the Baltic markets: Lithuania, Latvia, Estonia. The website made it possible to purchase products and learn about their operation, e.g. through rich product cards.
@@ -176,7 +176,7 @@ Excel, Word, SharePoint, Figma
 • https://tefal.ee/et_EE/
 
 
-𝑾𝑴𝑭 𝑬-𝑪𝑶𝑴𝑴𝑬𝑹𝑪𝑬 𝑾𝑬𝑩𝑺𝑰𝑻𝑬
+### WMF E-COMMERCE BALTIC WEBSITES
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 E-commerce website created for the WMF brand for the Baltic markets: Lithuania, Latvia, Estonia. The website made it possible to purchase products.
@@ -194,7 +194,7 @@ Excel, Word, SharePoint, Figma
 • https://wmf.com.ee/et_EE/
 
 
-𝑻𝑬𝑭𝑨𝑳 𝑩𝑨𝑳𝑻𝑰𝑪 𝑾𝑬𝑩𝑺𝑰𝑻𝑬𝑺
+### TEFAL BALTIC WEBSITES
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 Pages dedicated to specific Tefal products for the Baltic market (Lithuania, Latvia, Estonia) and to promotional campaigns of these devices. The pages contain product descriptions, their benefits and links to reseller stores in the Baltic markets.
@@ -230,7 +230,7 @@ Excel, Word, SharePoint, Figma
 • https://lp.tefal.ee/licencetoclean
 
 
-𝑻𝑬𝑭𝑨𝑳 𝑾𝑬𝑩𝑺𝑰𝑻𝑬𝑺
+### TEFAL WEBSITES
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 Pages dedicated to specific Tefal products and to promotional campaigns of these devices. The pages contain product descriptions, their benefits and links to reseller stores in the Polish markets.
@@ -249,7 +249,7 @@ Excel, Word, SharePoint, Figma
 • https://xforceflex.pl/
 
 
-𝑷𝑬𝑹Ł𝑨 𝑾𝑬𝑩𝑺𝑰𝑻𝑬
+### PERŁA WEBSITE
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 A website for the Perła company with the possibility of booking a place in the Perłowa Pijalnia Piwa.
@@ -263,7 +263,7 @@ Excel, Word
 • https://perlowapijalniapiwa.pl/
 
 
-𝑴𝑰𝑳𝑲𝑨 𝑳𝑶𝑻𝑻𝑬𝑹𝒀 𝑾𝑬𝑩𝑺𝑰𝑻𝑬𝑺
+### MILKA LOTTERY WEBSITES
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 Milka lottery websites. The pages contained information about the lottery: mechanics, prizes, games, promotional products, winners, application form.
@@ -279,7 +279,7 @@ Website changes for every new lottery & the domain is still the same.
 • https://www.loteriamilka.pl
 
 
-𝑷𝑹𝑰𝑵𝑪𝑬 𝑷𝑶𝑳𝑶 𝑳𝑶𝑻𝑻𝑬𝑹𝒀 𝑾𝑬𝑩𝑺𝑰𝑻𝑬𝑺
+### PRINCE POLO LOTTERY WEBSITES
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 Prince Polo Lottery Sites. The pages contained information about the lottery: mechanics, prizes, promotional products, winners, application form.
@@ -295,7 +295,7 @@ Website changes for every new lottery & the domain is still the same.
 • https://princepolo.pl/
 
 
-𝒃𝒆𝒍𝑽𝒊𝒕𝒂 𝑳𝑶𝑻𝑻𝑬𝑹𝒀 𝑾𝑬𝑩𝑺𝑰𝑻𝑬𝑺
+### belVita LOTTERY WEBSITES
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 belVita lottery websites. The pages contained information about the lottery: mechanics, prizes, promotional products, winners, application form. Checking the compliance of the landing page design with the created KV of the lottery.
@@ -310,7 +310,7 @@ The website is currently archived.
 
 • www.belvita.pl 
 
-𝑴𝑨𝑺𝑻𝑬𝑹𝑪𝑨𝑹𝑫 𝑳𝑶𝑻𝑻𝑬𝑹𝒀 𝑾𝑬𝑩𝑺𝑰𝑻𝑬
+### MASTERCARD LOTTERY WEBSITE
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 Mastercard lottery website. The website contained information about the lottery: mechanics, prizes, winners, application form.
