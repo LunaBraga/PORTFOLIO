@@ -51,6 +51,8 @@ My previous experience was initially associated with working as a PR manager and
 
 • Visual Studio Code 
 
+• Netlify
+
 • Figma - to communicate with designers, developers and to made HTML & CSS projects by myself (CV). 
 
 • Slack - for communication within the team
