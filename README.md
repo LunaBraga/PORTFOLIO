@@ -35,13 +35,6 @@ My previous experience was initially associated with working as a PR manager and
 
 ## Tools 
 
-
-• Jira 
-
-• Figma - to communicate with designers, developers and to made HTML & CSS projects by myself (CV). 
-
-• Slack - for communication within the team
-
 • Chrome DevTools - for testing and to improve bug reports
 
 • Git, Git Bash, GitHub, GitHub Desktop
@@ -58,9 +51,13 @@ My previous experience was initially associated with working as a PR manager and
 
 • Visual Studio Code 
 
+• Figma - to communicate with designers, developers and to made HTML & CSS projects by myself (CV). 
+
+• Slack - for communication within the team
+
 • Screenpresso 
 
-• Slack - to communicate with team
+• Jira 
 
 • Google Analytics
 
@@ -89,11 +86,14 @@ My previous experience was initially associated with working as a PR manager and
 
 ## Blogs I read
 
+• testerzy.pl  <a href= "https://testerzy.pl/">testerzy.pl</a>
 
-• testerzy.pl
+• <a href= "https://testelka.pl/blog/">testelka.pl</a>
+
 
 ## Groups on Facebook
 • <a href= "https://www.facebook.com/groups/509489587391848/?hoisted_section_header_type=recently_seen&multi_permalinks=780138180326986">Testowanie oprogramowania - Materiały/Porady</a>
+
 
 ## You Tube I watch
 • <a href= "https://www.youtube.com/@JZP">Jak zacząć programować?</a>
