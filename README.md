@@ -1,5 +1,5 @@
 ## ⚜ About me ⚜
-For 5 years I have been working with many projects: landing pages and e-commerce websites among others. Usually I use the Waterfall methodology but I am also versed in Agile and Scrum. I cooperate with a team of programmers. Currently, I am learning Automated & Manualy Tested,  HTML, CSS and Java Script. I want to widen my knowledge of modern technologies. 
+I am a tester and I constantly expand the scope of my skills. I absorb new knowledge very quickly, I am empathetic, patient and diligent. I take care of good relations in the team and of communicating information necessary for the proper execution of the project on an ongoing basis. I have many years of experience working with software development teams. Currently, I expand my knowledge in the field of modern technologies.
 
 
 ## ⚜ My experience ⚜
