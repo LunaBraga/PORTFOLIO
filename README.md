@@ -95,7 +95,8 @@ My previous experience was initially associated with working as a PR manager and
 • <a href= "https://www.facebook.com/groups/509489587391848/?hoisted_section_header_type=recently_seen&multi_permalinks=780138180326986">Testowanie oprogramowania - Materiały/Porady</a>
 
 
-## You Tube I watch ![yt_1200](https://github.com/LunaBraga/PORTFOLIO/assets/128088096/f4c7ea52-2629-443c-9f4e-d751c42fd2a6)
+## You Tube I watch ![yt_1200](https://github.com/LunaBraga/PORTFOLIO/assets/128088096/4765b5bc-f933-4990-8ad8-6c9498d60434)
+
 
 • <a href= "https://www.youtube.com/@JZP">Jak zacząć programować?</a>
 
