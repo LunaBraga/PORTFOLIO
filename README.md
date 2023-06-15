@@ -56,6 +56,8 @@ My previous experience was initially associated with working as a PR manager and
 
 • XAMPP 
 
+• Visual Studio Code 
+
 • Screenpresso 
 
 • Slack - to communicate with team
