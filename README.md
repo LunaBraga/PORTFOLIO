@@ -86,7 +86,7 @@ My previous experience was initially associated with working as a PR manager and
 
 ## Blogs I read
 
-• testerzy.pl  <a href= "https://testerzy.pl/">testerzy.pl</a>
+• <a href= "https://testerzy.pl/">testerzy.pl</a>
 
 • <a href= "https://testelka.pl/blog/">testelka.pl</a>
 
