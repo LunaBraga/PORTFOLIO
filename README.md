@@ -1,13 +1,13 @@
-## About me 
+## ⚜ About me ⚜
 For 5 years I have been working with many projects: landing pages and e-commerce websites among others. Usually I use the Waterfall methodology but I am also versed in Agile and Scrum. I cooperate with a team of programmers. Currently, I am learning Automated & Manualy Tested,  HTML, CSS and Java Script. I want to widen my knowledge of modern technologies. 
 
 
-## My experience 
+## ⚜ My experience ⚜
 
 My previous experience was initially associated with working as a PR manager and then for 10 years as an Account Manager. So far, I have worked on projects related to new technologies: creating websites and applications. Due to the fact that I always wanted to ensure the best performance of the projects, all of them were tested by me. I made Excel included all Bugs that I found for Developers. We are also working together on all projects improvement. 
 
 
-## Courses
+## Courses 🚀
 
 • „Automated Tests + Python” from <a href="https://www.dareit.io/challenges" onclick="this.target='_blank'">Dare IT</a>
 
@@ -133,7 +133,7 @@ Pre-production testing of websites on mobile and desktop devices. Acceptance tes
 
 
 
-#### Bugs I found:
+#### Bugs I found: 
 
 • typos
 
@@ -158,7 +158,7 @@ Pre-production testing of websites on mobile and desktop devices. Acceptance tes
 • forms not working
 
 
-### TEFAL E-COMMERCE BALTIC WEBSITES
+### 🔸 TEFAL E-COMMERCE BALTIC WEBSITES 🔸
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 E-commerce site created for the Tefal brand for the Baltic markets: Lithuania, Latvia, Estonia. The website made it possible to purchase products and learn about their operation, e.g. through rich product cards.
@@ -176,7 +176,7 @@ Excel, Word, SharePoint, Figma
 • https://tefal.ee/et_EE/
 
 
-### WMF E-COMMERCE BALTIC WEBSITES
+### 🔸 WMF E-COMMERCE BALTIC WEBSITES 🔸
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 E-commerce website created for the WMF brand for the Baltic markets: Lithuania, Latvia, Estonia. The website made it possible to purchase products.
@@ -194,7 +194,7 @@ Excel, Word, SharePoint, Figma
 • https://wmf.com.ee/et_EE/
 
 
-### TEFAL BALTIC WEBSITES
+### 🔸 TEFAL BALTIC WEBSITES 🔸
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 Pages dedicated to specific Tefal products for the Baltic market (Lithuania, Latvia, Estonia) and to promotional campaigns of these devices. The pages contain product descriptions, their benefits and links to reseller stores in the Baltic markets.
@@ -230,7 +230,7 @@ Excel, Word, SharePoint, Figma
 • https://lp.tefal.ee/licencetoclean
 
 
-### TEFAL WEBSITES
+### 🔸 TEFAL WEBSITES 🔸
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 Pages dedicated to specific Tefal products and to promotional campaigns of these devices. The pages contain product descriptions, their benefits and links to reseller stores in the Polish markets.
@@ -249,7 +249,7 @@ Excel, Word, SharePoint, Figma
 • https://xforceflex.pl/
 
 
-### PERŁA WEBSITE
+### 🔸 PERŁA WEBSITE 🔸
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 A website for the Perła company with the possibility of booking a place in the Perłowa Pijalnia Piwa.
@@ -263,7 +263,7 @@ Excel, Word
 • https://perlowapijalniapiwa.pl/
 
 
-### MILKA LOTTERY WEBSITES
+### 🔸 MILKA LOTTERY WEBSITES 🔸
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 Milka lottery websites. The pages contained information about the lottery: mechanics, prizes, games, promotional products, winners, application form.
@@ -279,7 +279,7 @@ Website changes for every new lottery & the domain is still the same.
 • https://www.loteriamilka.pl
 
 
-### PRINCE POLO LOTTERY WEBSITES
+### 🔸 PRINCE POLO LOTTERY WEBSITES 🔸
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 Prince Polo Lottery Sites. The pages contained information about the lottery: mechanics, prizes, promotional products, winners, application form.
@@ -295,7 +295,7 @@ Website changes for every new lottery & the domain is still the same.
 • https://princepolo.pl/
 
 
-### belVita LOTTERY WEBSITES
+### 🔸 belVita LOTTERY WEBSITES 🔸
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 belVita lottery websites. The pages contained information about the lottery: mechanics, prizes, promotional products, winners, application form. Checking the compliance of the landing page design with the created KV of the lottery.
@@ -310,7 +310,7 @@ The website is currently archived.
 
 • www.belvita.pl 
 
-### MASTERCARD LOTTERY WEBSITE
+### 🔸 MASTERCARD LOTTERY WEBSITE 🔸
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 Mastercard lottery website. The website contained information about the lottery: mechanics, prizes, winners, application form.
