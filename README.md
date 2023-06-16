@@ -132,7 +132,7 @@ Lists of bugs that I was made during course „Manual Tests”
 <a href ="https://docs.google.com/document/d/1TnwUclmEahtQttLSnDhYsdX7TNekhkgfYkQ4NsRD6K8/edit?usp=share_link">Link to all SQL tasks</a>
 
 ### My CV HTML/CSS
-<a href ="https://648b64e5a3e7fc007e5d96a7--gleeful-travesseiro-9455b9.netlify.app/">My CV</a>
+<a href ="https://648c5a2c825c1a0d1b4fad69--lustrous-parfait-ad4212.netlify.app/">My CV</a>
 
 
 ### Tested websites
