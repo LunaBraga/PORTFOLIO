@@ -7,7 +7,7 @@ I am a tester and I constantly expand the scope of my skills. I absorb new knowl
 My previous experience was initially associated with working as a PR manager and then for 10 years as an Account Manager. So far, I have worked on projects related to new technologies: creating websites and applications. Due to the fact that I always wanted to ensure the best performance of the projects, all of them were tested by me. I made Excel included all Bugs that I found for Developers. We are also working together on all projects improvement. 
 
 
-## Courses 🚀
+## Courses
 
 • „Automated Tests + Python” from <a href="https://www.dareit.io/challenges" onclick="this.target='_blank'">Dare IT</a>
 
