@@ -110,10 +110,14 @@ My previous experience was initially associated with working as a PR manager and
 ## My projects 
 
 ### Automated tests 
-Git hub projects made during course "Automated Tests + Python” <a href = "https://github.com/LunaBraga/challenge_portfolio_Kasia">Link to my Github</a>
+Tests made during course "Automated Tests + Python” <a href ="https://github.com/LunaBraga/challenge_portfolio_Kasia">Link to my Github</a>
+
+### Robot Framework tests
+
+Robot Framework tests made during course "Automated Tests + Python” <a href="https://github.com/LunaBraga/Kasia_Panel_Scouts_Robotframwork2">link to Robot Framework tests</a>
 
 ### Automated tests Report
-Report made during cours "Automated Tests + Python”  <a href = "https://drive.google.com/drive/folders/12F_0xC0kfnmGUUPUn-vkeS4fulGxPO7J?usp=drive_link">Link to my Github</a>
+Report made during cours "Automated Tests + Python”  <a href = "https://drive.google.com/drive/folders/12F_0xC0kfnmGUUPUn-vkeS4fulGxPO7J?usp=drive_link">Link to my Report</a>
 
 
 ### Test cases 
