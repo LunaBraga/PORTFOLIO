@@ -114,7 +114,7 @@ Tests made during course "Automated Tests + Python” <a href ="https://github.c
 
 ### Robot Framework tests
 
-Robot Framework tests made during course "Automated Tests + Python” <a href="https://github.com/LunaBraga/Kasia_Panel_Scouts_Robotframwork2">link to Robot Framework tests</a>
+Robot Framework tests made during course "Automated Tests + Python” <a href="https://github.com/LunaBraga/Kasia_Panel_Scouts_Robotframwork2">Link to Robot Framework tests</a>
 
 ### Automated tests Report
 Report made during cours "Automated Tests + Python”  <a href = "https://drive.google.com/drive/folders/12F_0xC0kfnmGUUPUn-vkeS4fulGxPO7J?usp=drive_link">Link to my Report</a>
