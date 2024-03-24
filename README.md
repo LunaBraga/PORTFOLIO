@@ -1,13 +1,15 @@
 ## ⚜ About me ⚜
-I am a tester and I constantly expand the scope of my skills. I absorb new knowledge very quickly, I am empathetic, patient and diligent. I take care of good relations in the team and of communicating information necessary for the proper execution of the project on an ongoing basis. I have many years of experience working with software development teams. Currently, I expand my knowledge in the field of modern technologies.
+I constantly expand the scope of my skills. I absorb new knowledge very quickly, I am empathetic, patient and diligent. I take care of good relations in the team and of communicating information necessary for the proper execution of the project on an ongoing basis. I have many years of experience working with software development teams. Currently, I expand my knowledge in the field of modern technologies.
 
 
 ## ⚜ My experience ⚜
 
-My previous experience was initially associated with working as a PR manager and then for 10 years as an Account Manager. So far, I have worked on projects related to new technologies: creating websites and applications. Due to the fact that I always wanted to ensure the best performance of the projects, all of them were tested by me. I made Excel included all Bugs that I found for Developers. We are also working together on all projects improvement. 
+ I am hardworking, detail-focused and patient. I use the MS Excel on a daily basis. I have a wide experience in creating reports and presentation. 
 
 
 ## Courses
+
+• „SAS Programming 1: Essentials” from <a href="https://www.sas.com/pl_pl/home.html" onclick="this.target='_blank'">SAS</a>
 
 • „Automated Tests + Python” from <a href="https://www.dareit.io/challenges" onclick="this.target='_blank'">Dare IT</a>
 
@@ -62,6 +64,8 @@ My previous experience was initially associated with working as a PR manager and
 • Jira 
 
 • Google Analytics
+
+• Excel
 
 • Microsoft Teams - to communicate with team  & meetings
 
