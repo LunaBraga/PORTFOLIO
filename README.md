@@ -113,6 +113,12 @@ I constantly expand the scope of my skills. I absorb new knowledge very quickly,
 
 ## My projects 
 
+### SQL tasks 
+SQL exercises
+Preparing different types of queries according to the expected result.
+
+<a href ="https://docs.google.com/document/d/1TnwUclmEahtQttLSnDhYsdX7TNekhkgfYkQ4NsRD6K8/edit?usp=share_link">Link to all SQL tasks</a>
+
 ### Automated tests 
 Tests made during course "Automated Tests + Python” <a href ="https://github.com/LunaBraga/challenge_portfolio_Kasia">Link to my Github</a>
 
@@ -135,13 +141,8 @@ Lists of bugs that I was made during course „Manual Tests”
 
 <a href ="https://docs.google.com/spreadsheets/d/1HEYhoLYkjE1Ri9lwSTTlIoKRh1VQrKGJn3fanKMVPzk/edit?usp=share_link" >Link to the tested OLX mobile application</a>
 
-### SQL tasks 
-
-<a href ="https://docs.google.com/document/d/1TnwUclmEahtQttLSnDhYsdX7TNekhkgfYkQ4NsRD6K8/edit?usp=share_link">Link to all SQL tasks</a>
-
 ### My CV HTML/CSS
 <a href ="https://648c5a2c825c1a0d1b4fad69--lustrous-parfait-ad4212.netlify.app/">My CV</a>
-
 
 ### Tested websites
 While working as an account manager, all websites that I worked on with the developers & creative team were tested by me before they were sent for customer approval. I tested the pages while working in Cape Morris advertising agency, IQ Marketing (Poland) Sp. z o.o. & McCann Worldgroup. 
