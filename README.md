@@ -30,20 +30,32 @@ I am scrupulous, patient and detail-oriented. I work in MS Excel environment dai
 ## Tech skills 
 
 • EXCEL(Pivot table, Excel functions) 
+
 • SQL 
+
 • HTML/CSS
+
 
 ## Skills 
 
 • Analytic thinking
+
 • Communication
+
 • Creative problem solving
+
 • Ability to work solo and as part of a team
+
 • Accountability, scrupulousness
+
 • Very good work organization
+
 • Creating test cases
+
 • Reporting bugs
+
 • Finding uniqe CSS Selectors and xPaths
+
 
 
 ## Tools 
