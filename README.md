@@ -3,8 +3,7 @@ I constantly expand the scope of my skills. I absorb new knowledge very quickly,
 
 
 ## ⚜ My experience ⚜
-I am scrupulous, patient and detail-oriented. I work in MS Excel environment daily. I have a vast experience in creating reports and presentations. 
-I maintain good relations and create clear communications. For many years I have been working with IT teams in creating solutions. 
+I am scrupulous, patient and detail-oriented. I work in MS Excel environment daily. I have a vast experience in creating reports and presentations. I maintain good relations and create clear communications. For many years I have been working with IT teams in creating solutions. 
 
 ## Courses
 
@@ -28,9 +27,28 @@ I maintain good relations and create clear communications. For many years I have
 
 • „Agile Project Management – basics, theory, practice" from <a href="https://www.udemy.com/">Udemy</a>
 
+## Tech skills 
+
+• EXCEL(Pivot table, Excel functions) 
+• SQL 
+• HTML/CSS
+
+## Skills 
+
+• Analytic thinking
+• Communication
+• Creative problem solving
+• Ability to work solo and as part of a team
+• Accountability, scrupulousness
+• Very good work organization
+• Creating test cases
+• Reporting bugs
+• Finding uniqe CSS Selectors and xPaths
 
 
 ## Tools 
+
+• mySQL
 
 • Chrome DevTools - for testing and to improve bug reports
 
@@ -41,8 +59,6 @@ I maintain good relations and create clear communications. For many years I have
 • Selenium WebDriver - for automated testing of web applications
 
 • PyCharm
-
-• mySQL
 
 • XAMPP 
 
@@ -60,29 +76,7 @@ I maintain good relations and create clear communications. For many years I have
 
 • Google Analytics
 
-• Excel
-
 • Microsoft Teams - to communicate with team  & meetings
-
-
-
-## Tech skills 
-
-• SQL
-
-• DevTools
-
-• SCRUM, AGILE, WATERFALL 
-
-• HTML/CSS
-
-• Creating test cases
-
-• Reporting bugs
-
-• Finding uniqe CSS Selectors and xPaths
-
-• Robot framework 
 
 
 ## Blogs I read
