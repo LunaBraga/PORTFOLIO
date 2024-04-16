@@ -3,11 +3,14 @@ I constantly expand the scope of my skills. I absorb new knowledge very quickly,
 
 
 ## ⚜ My experience ⚜
-
- I am hardworking, detail-focused and patient. I use the MS Excel on a daily basis. I have a wide experience in creating reports and presentation. 
-
+I am scrupulous, patient and detail-oriented. I work in MS Excel environment daily. I have a vast experience in creating reports and presentations. 
+I maintain good relations and create clear communications. For many years I have been working with IT teams in creating solutions. 
 
 ## Courses
+
+• "Microsoft Excel for Data Analytics" from <a href="https://www.udemy.com">Udemy</a> 
+
+• "The Complete SQL Bootcamp" from <a href="https://www.udemy.com">Udemy</a> 
 
 • „SAS Programming 1: Essentials” from <a href="https://www.sas.com/pl_pl/home.html" onclick="this.target='_blank'">SAS</a>
 
@@ -15,9 +18,7 @@ I constantly expand the scope of my skills. I absorb new knowledge very quickly,
 
 • „Manual Tests” from <a href="https://www.dareit.io/challenges">Dare IT</a>
 
-• SQL in 120 minutes from <a href= "https://www.kursysql.pl/">Kursy SQL</a>
-
-• SQLBolt Learn SQL with simple, interactive exercises <a href= "https://sqlbolt.com/ ">SQLBolt</a>
+• SQLBolt Learn SQL <a href= "https://sqlbolt.com/ ">SQLBolt</a>
 
 • SQL course from <a href="https://www.w3schools.com/sql/">3schools</a>
 
@@ -25,13 +26,7 @@ I constantly expand the scope of my skills. I absorb new knowledge very quickly,
 
 • „Basic Jira” – project management from <a href="https://www.udemy.com/">Udemy</a>
 
-• „Remote team management” from <a href="https://www.udemy.com/">Udemy</a>
-
 • „Agile Project Management – basics, theory, practice" from <a href="https://www.udemy.com/">Udemy</a>
-
-• „Scrum Master Online Course” from <a href="https://www.udemy.com/">Udemy</a>
-
-• „Excel XP” – basic course
 
 
 
@@ -92,6 +87,8 @@ I constantly expand the scope of my skills. I absorb new knowledge very quickly,
 
 ## Blogs I read
 
+• <a href= "https://kajodata.com/blog/">Kajo Data</a>
+
 • <a href= "https://testerzy.pl/">testerzy.pl</a>
 
 • <a href= "https://testelka.pl/blog/">testelka.pl</a>
@@ -103,6 +100,7 @@ I constantly expand the scope of my skills. I absorb new knowledge very quickly,
 
 ## You Tube I watch 
 
+• <a href="https://www.youtube.com/@kajodata">Kajo Data</a>
 
 • <a href= "https://www.youtube.com/@JZP">Jak zacząć programować?</a>
 
@@ -128,7 +126,6 @@ Robot Framework tests made during course "Automated Tests + Python” <a href="h
 
 ### Automated tests Report
 Report made during cours "Automated Tests + Python”  <a href = "https://drive.google.com/drive/folders/12F_0xC0kfnmGUUPUn-vkeS4fulGxPO7J?usp=drive_link">Link to my Report</a>
-
 
 ### Test cases 
 Test cases made during course „Manual Tests” <a href = "https://docs.google.com/spreadsheets/d/141-j92eZIxft7-ZMGKViFarHWHmiG-Q5JXQkbierDYA/edit?usp=share_lin">Link to my test cases</a>
